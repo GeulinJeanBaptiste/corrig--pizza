@@ -372,8 +372,11 @@ footer a {
   .navMenu,
   #tabs-1,
   #tabs-2,
-  #tabs-3,.aboutContent, .restaurant, .formContact, .contactBtn,  {
+  #tabs-3,
+  .aboutContent,
+  .restaurant,
+  .formContact,
+  .contactBtn {
     width: 70vw;
-
   }
 }
